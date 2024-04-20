@@ -1,0 +1,15 @@
+.DS_Store
+
+*.wav
+
+documentation
+
+*.jpg
+
+1_main_harvestworks2024.maxpat
+2_main_harvestworks2024.maxpat
+3_main_harvestworks2024.maxpat
+changeInMotion_avgRGB.maxpat
+main_startFromScratch.maxpat
+pauseOnFreezeMotion.maxpat
+testSounds.maxpat
